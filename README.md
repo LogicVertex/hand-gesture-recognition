@@ -85,6 +85,12 @@ curl -o hand_landmarker.task https://storage.googleapis.com/mediapipe-models/han
 ```
 
 Alternatively, download the file manually and place it in the project folder.
+
+#### Jupyter Notebook
+
+```python
+!pip install mediapipe opencv-python pycaw comtypes numpy
+```
  
 ### Run the Application
 
