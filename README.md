@@ -59,7 +59,7 @@ gesture-volume-control/
 ### Hand Detection & Volume Control
 
 ![Hand Detection ](screenshots/Output.png)
-![Project Demo](assets/demo.gif)
+![Project Demo](assets/pic.gif)
 
 ## ⚙️ Installation
 ### Clone the Repository
